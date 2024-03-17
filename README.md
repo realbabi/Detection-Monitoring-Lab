@@ -1,7 +1,7 @@
 # Detection-Monitoring-Lab
 # Home Lab Setup
 
-This Lab focuses on configuring a SEIM (Splunk), IDS (SecurityOnion), Traffic Monitoring (PfSense), and Log Monitoring. 
+This Lab focuses on configuring a SEIM (Splunk), IDS (SecurityOnion), Traffic Monitoring (PfSense), and Log Monitoring. We will utilize pentesting techniques to scan the network and traverse the Active Directory.
 
 ## Overview
 
