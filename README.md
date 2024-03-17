@@ -1,7 +1,7 @@
 # Detection-Monitoring-Lab
 # Home Lab Setup
 
-This guide outlines the setup for a comprehensive home lab environment, including network segmentation, security monitoring, attack simulation, and log management. The lab is hosted on a single PC using VMware Workstation.
+This Lab focuses on configuring a SEIM (Splunk), IDS (SecurityOnion), Traffic Monitoring (PfSense), and Log Monitoring. 
 
 ## Overview
 
